@@ -26,6 +26,7 @@
 		// 	echo "Message Not Sent.";
 		// }
 	}
+?>
 
 <!DOCTYPE html>
 <head>
